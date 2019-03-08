@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>IP_Form</head>
+<body>
+    <form  action="http://localhost:8080/ip" method="POST">
+        <input type="text" name="submit" value="Enter here">
+        <label>Country Name</label>
+        <input type="submit" name="Submit" value="Submit">
+    </form>
+</body>
+
